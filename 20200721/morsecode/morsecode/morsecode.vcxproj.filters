@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ex_morsecode.c">
+    <ClCompile Include="이가희_morse.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
